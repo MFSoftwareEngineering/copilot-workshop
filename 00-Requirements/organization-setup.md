@@ -22,8 +22,46 @@ A GitHub organization is a shared “container” where a team, company, or comm
 
 ## Setup
 
+### Create GitHub accounts for developers
+
+Each workshop participant need a GitHub account (free).
+
+[Here you can create a GitHub account](https://github.com/signup).
+
+Reference: [creating an account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+
+### Create Organization
+
 1. Go to new org page to create a [new organization for free](https://github.com/account/organizations/new?plan=free).
 1. Select "a business or institution"
 1. Add-ons: activate Copilot Business in this organization
 
 ![organization-setup](image.png)
+
+### Add users to your Organization
+
+Add users account to manage them centrally in your organization later.
+
+Search by user name and then "Complete Setup".
+
+![add users](image-1.png)
+
+### Activate GitHub Copilot
+
+Check, edit and save your billing information. Nothing is charged to you until you actively assign seats later.
+
+![billing-info](image-2.png)
+
+### Assign copilot seats
+
+Assign copilot seats to your users (all or selected based on your scenario).
+
+![assign-seats](image-4.png)
+
+Example:
+
+1. Filter or search members
+1. Check 
+1. Continue to purchase.
+
+![alt text](image-5.png)
