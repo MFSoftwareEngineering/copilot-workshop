@@ -34,6 +34,7 @@ Before starting, make sure you have:
 
 - **Visual Studio Code** installed and updated to the latest stable version
 - **GitHub Copilot** activated and working (Workshop 1 completed)
+- Comfort with starting and scoping chat sessions, using context references, choosing a model, and reviewing proposed edits (Getting Started module completed)
 - **Git** installed and configured
 - Clone the **[Marvel Zombies Hero](https://github.com/phenixita/marvel-zombies-hero/)** repository to use as your practice codebase:
   ```bash

@@ -262,6 +262,20 @@ After this workshop, your environment is ready for AI-assisted development:
 | **Agent Mode**      | ✅ Tuned      | `maxRequests` and subagent support configured |
 | **Commit Messages** | ✅ Customized | Conventional Commits via file + inline rules  |
 
+### What To Do Next
+
+Before moving into advanced planning or customizations, build your day-to-day operating habits with the new Getting Started module:
+
+- Continue with `02-Getting-started/workshop-02.1-vscode-quickstart.md`
+- Then complete `02-Getting-started/workshop-02.2-tools-and-control.md`
+
+These two workshops focus on the fundamentals that make the later modules easier:
+
+- starting and scoping chat sessions in a real repository
+- choosing between `Auto`, fast, and reasoning models
+- using file, folder, and symbol references as context
+- reviewing tool calls, approvals, and small edits before accepting them
+
 ### The Golden Rule
 
 > Copilot is a **companion**, not a replacement. Every suggestion should be read, understood, and validated before being accepted. The responsibility for the code remains yours.
